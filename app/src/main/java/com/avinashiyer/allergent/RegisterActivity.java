@@ -307,7 +307,7 @@ public class RegisterActivity extends AppCompatActivity implements LoaderCallbac
 //            showProgress(true);
 //            mAuthTask = new UserLoginTask(email, password);
 //            mAuthTask.execute((Void) null);
-            Intent i = new Intent(RegisterActivity.this,ProfileActivity.class);
+            Intent i = new Intent(RegisterActivity.this,AllergyCategoryActivity.class);
             startActivity(i);
             finish();
         }

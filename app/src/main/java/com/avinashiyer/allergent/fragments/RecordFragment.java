@@ -115,7 +115,8 @@ public class RecordFragment extends Fragment {
         if (requestCode == 100) {
             Log.d("Request code","100");
 
-                Bitmap mphoto = (Bitmap) data.getExtras().get("data");
+                //Bitmap mphoto = (Bitmap) data.getExtras().get("data");
+            Bitmap mphoto = BitmapFactory.decodeResource(getResources(), R.drawable.hersheys); //or lays2.png
                 Log.d("Result code OK",""+mphoto.getByteCount());
                 //imgView.setImageBitmap(mphoto);
                 String myBase64Image = encodeToBase64(mphoto, Bitmap.CompressFormat.JPEG, 100);
