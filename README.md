@@ -8,3 +8,5 @@ Our app uses OCR capability provided by Microsoft's Cognitive Services API to li
 
 <b><u><i>How we built it</i></u></b>:<br/> 
 We used Android Studio to make the app. The app requires the user to take a picture of the contents, we send this picture to Cognitive Services API as a bitmap to get the string of the contents. The string is then parsed and processed to determine the exact list of contents. This list is then passed to the Edamam API which of them contain allergens. We finally look at the allergens that affect the user, compare it with the output from Edamam and accordingly educate the user on the risks of consuming the product in question.
+
+<b><u><i>Screenshots</i></u></b>:<br/> 
