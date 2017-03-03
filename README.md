@@ -11,13 +11,13 @@ We used Android Studio to make the app. The app requires the user to take a pict
 
 <b><u><i>Screenshots</i></u></b>:<br/> 
 
-<img src="https://cloud.githubusercontent.com/assets/13279942/23532500/ba6a180c-ff79-11e6-962f-705579f54669.png" width="120" height="250" /> 
-<img src="https://cloud.githubusercontent.com/assets/13279942/23532503/ba6b1cde-ff79-11e6-84fb-cefd01630fc9.png" width="120" height="250" /> <br/>
+<img src="https://cloud.githubusercontent.com/assets/13279942/23532500/ba6a180c-ff79-11e6-962f-705579f54669.png" width="150" height="250" /> 
+<img src="https://cloud.githubusercontent.com/assets/13279942/23532503/ba6b1cde-ff79-11e6-84fb-cefd01630fc9.png" width="150" height="250" /> <br/>
 
-<img src="https://cloud.githubusercontent.com/assets/13279942/23532499/ba69d5cc-ff79-11e6-8575-ffb377c8738f.png" width="120" height="250" /> 
+<img src="https://cloud.githubusercontent.com/assets/13279942/23532499/ba69d5cc-ff79-11e6-8575-ffb377c8738f.png" width="150" height="250" /> 
 
-<img src="https://cloud.githubusercontent.com/assets/13279942/23532501/ba6a572c-ff79-11e6-8b97-a3badd6b46b5.png" width="120" height="250" /> <br/>
+<img src="https://cloud.githubusercontent.com/assets/13279942/23532501/ba6a572c-ff79-11e6-8b97-a3badd6b46b5.png" width="150" height="250" /> <br/>
 
-<img src="https://cloud.githubusercontent.com/assets/13279942/23532504/ba6c6152-ff79-11e6-8ab7-6bcd7ed32f84.png" width="120" height="250" /> 
-<img src="https://cloud.githubusercontent.com/assets/13279942/23532502/ba6ae9b2-ff79-11e6-8d94-3502ab29ee90.png" width="120" height="250" /> <br/>
+<img src="https://cloud.githubusercontent.com/assets/13279942/23532504/ba6c6152-ff79-11e6-8ab7-6bcd7ed32f84.png" width="150" height="250" /> 
+<img src="https://cloud.githubusercontent.com/assets/13279942/23532502/ba6ae9b2-ff79-11e6-8d94-3502ab29ee90.png" width="150" height="250" /> <br/>
 
